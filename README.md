@@ -7,6 +7,7 @@ Physikalische Spielgrundlagen
 Start der App
 
 Virtueller Durchlauf durch die Anwendung der App:
+
 Start
 Erstellen des eigenen Solar Systems
 Offline Playroom
